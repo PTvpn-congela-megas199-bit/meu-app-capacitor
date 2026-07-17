@@ -1,6 +1,6 @@
 {
   "appId": "com.seuapp.projeto",
-  "appName": "seu-nome-app",
+  "appName": "meu-app-capacitor",
   "webDir": "www",
   "bundledWebRuntime": false
 }
