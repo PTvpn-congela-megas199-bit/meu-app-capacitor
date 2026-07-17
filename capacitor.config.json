@@ -1,0 +1,6 @@
+{
+  "appId": "com.seuapp.login",
+  "appName": "Meu App Capacitor",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}
